@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Earth - Blue planet with green continents and white clouds -->
+  <circle cx="100" cy="100" r="75" fill="#2b65ec" />
+  <!-- Continents -->
+  <path d="M50,70 Q80,50 110,60 T160,80 Q140,110 100,120 T60,100 Q50,80 50,70" fill="#3cb371" />
+  <path d="M130,40 Q150,50 140,70 T120,80 Q100,70 130,40" fill="#3cb371" />
+  <path d="M70,130 Q90,120 110,130 T130,150 Q110,160 90,150 T70,130" fill="#3cb371" />
+  <!-- Polar ice caps -->
+  <circle cx="100" cy="25" r="15" fill="#ffffff" />
+  <circle cx="100" cy="175" r="15" fill="#ffffff" />
+  <!-- Cloud formations -->
+  <path d="M40,60 Q60,50 80,60 T100,70 Q80,80 60,70 T40,60" fill="#ffffff" opacity="0.7" />
+  <path d="M110,100 Q130,90 150,100 T170,110 Q150,120 130,110 T110,100" fill="#ffffff" opacity="0.7" />
+  <path d="M70,140 Q90,130 110,140 T130,150 Q110,160 90,150 T70,140" fill="#ffffff" opacity="0.5" />
+  <!-- Atmosphere glow -->
+  <circle cx="100" cy="100" r="85" fill="none" stroke="#a5d8ff" stroke-width="5" opacity="0.3" />
+</svg>

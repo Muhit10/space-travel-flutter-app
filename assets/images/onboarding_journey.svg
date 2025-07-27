@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <!-- Space background -->
+  <rect width="512" height="512" fill="#1F2A44"/>
+  
+  <!-- Stars -->
+  <circle cx="40" cy="50" r="1.5" fill="#FFFFFF"/>
+  <circle cx="100" cy="30" r="2" fill="#FFFFFF"/>
+  <circle cx="180" cy="70" r="1" fill="#FFFFFF"/>
+  <circle cx="260" cy="20" r="1.5" fill="#FFFFFF"/>
+  <circle cx="330" cy="60" r="2" fill="#FFFFFF"/>
+  <circle cx="400" cy="40" r="1" fill="#FFFFFF"/>
+  <circle cx="470" cy="80" r="1.5" fill="#FFFFFF"/>
+  <circle cx="20" cy="140" r="2" fill="#FFFFFF"/>
+  <circle cx="80" cy="170" r="1" fill="#FFFFFF"/>
+  <circle cx="140" cy="120" r="1.5" fill="#FFFFFF"/>
+  <circle cx="210" cy="160" r="2" fill="#FFFFFF"/>
+  <circle cx="290" cy="130" r="1" fill="#FFFFFF"/>
+  <circle cx="370" cy="150" r="1.5" fill="#FFFFFF"/>
+  <circle cx="440" cy="110" r="2" fill="#FFFFFF"/>
+  
+  <!-- Planets -->
+  <circle cx="100" cy="200" r="30" fill="#3E1F47" stroke="#FF2A6D" stroke-width="1"/>
+  <circle cx="400" cy="180" r="40" fill="#0A0E21" stroke="#4FCBFF" stroke-width="1"/>
+  
+  <!-- Spaceship -->
+  <path d="M256,350 L226,400 L286,400 Z" fill="#9E9E9E"/>
+  <ellipse cx="256" cy="350" rx="30" ry="60" fill="#F8F8FF"/>
+  <ellipse cx="256" cy="350" rx="20" ry="50" fill="#4A4A4A"/>
+  <rect x="236" y="300" width="40" height="10" fill="#9E9E9E" rx="5"/>
+  <circle cx="256" cy="330" r="15" fill="#4FCBFF" opacity="0.8"/>
+  
+  <!-- Thrusters/Flames -->
+  <path d="M236,400 L246,430 L226,400 Z" fill="#FF2A6D" opacity="0.8"/>
+  <path d="M266,400 L256,430 L286,400 Z" fill="#FF2A6D" opacity="0.8"/>
+  
+  <!-- Flight path -->
+  <path d="M100,200 Q256,150 400,180" stroke="#4FCBFF" stroke-width="2" stroke-dasharray="5,5" fill="none"/>
+  
+  <!-- Control panel elements -->
+  <rect x="150" y="450" width="212" height="40" fill="#4A4A4A" rx="5"/>
+  <circle cx="180" cy="470" r="10" fill="#FF2A6D"/>
+  <circle cx="220" cy="470" r="10" fill="#4FCBFF"/>
+  <circle cx="260" cy="470" r="10" fill="#F8F8FF"/>
+  <rect x="290" cy="460" width="50" height="20" fill="#0A0E21" rx="3"/>
+  
+  <!-- Text "JOURNEY" -->
+  <text x="256" y="430" font-family="Arial" font-size="24" fill="#4FCBFF" text-anchor="middle" font-weight="bold">JOURNEY</text>
+</svg>

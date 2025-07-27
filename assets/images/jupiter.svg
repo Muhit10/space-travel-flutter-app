@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Jupiter - Gas giant with distinctive bands -->
+  <circle cx="100" cy="100" r="80" fill="#e8c988" />
+  <!-- Atmospheric bands -->
+  <ellipse cx="100" cy="60" rx="80" ry="12" fill="#d4a760" />
+  <ellipse cx="100" cy="85" rx="80" ry="10" fill="#bf8a30" />
+  <ellipse cx="100" cy="110" rx="80" ry="15" fill="#d4a760" />
+  <ellipse cx="100" cy="140" rx="80" ry="10" fill="#bf8a30" />
+  <!-- Great Red Spot -->
+  <ellipse cx="140" cy="85" rx="25" ry="12" fill="#b04b2d" />
+  <!-- Smaller storms -->
+  <circle cx="60" cy="70" r="8" fill="#e8d4a9" />
+  <circle cx="80" cy="120" r="6" fill="#e8d4a9" />
+  <circle cx="120" cy="130" r="7" fill="#e8d4a9" />
+  <!-- Atmosphere glow -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#f8e9c9" stroke-width="5" opacity="0.3" />
+</svg>

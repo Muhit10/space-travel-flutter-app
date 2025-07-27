@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Planet 2 - Gas giant like Jupiter -->
+  <circle cx="100" cy="100" r="80" fill="#e8c170" />
+  <!-- Atmospheric bands -->
+  <ellipse cx="100" cy="70" rx="80" ry="15" fill="#d4a149" />
+  <ellipse cx="100" cy="100" rx="80" ry="10" fill="#d4a149" />
+  <ellipse cx="100" cy="130" rx="80" ry="15" fill="#d4a149" />
+  <!-- Great red spot -->
+  <ellipse cx="130" cy="85" rx="25" ry="15" fill="#c1665a" />
+  <!-- Atmosphere glow -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#f8e9c9" stroke-width="5" opacity="0.3" />
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Mercury - Small rocky planet -->
+  <circle cx="100" cy="100" r="70" fill="#a9a9a9" />
+  <!-- Crater details -->
+  <circle cx="70" cy="80" r="10" fill="#8a8a8a" />
+  <circle cx="120" cy="60" r="15" fill="#8a8a8a" />
+  <circle cx="90" cy="130" r="20" fill="#8a8a8a" />
+  <circle cx="140" cy="110" r="8" fill="#8a8a8a" />
+  <circle cx="60" cy="110" r="12" fill="#8a8a8a" />
+  <circle cx="110" cy="90" r="7" fill="#8a8a8a" />
+  <!-- Surface texture -->
+  <circle cx="100" cy="100" r="70" fill="none" stroke="#7a7a7a" stroke-width="2" stroke-dasharray="4 4" />
+  <!-- Atmosphere glow (minimal for Mercury) -->
+  <circle cx="100" cy="100" r="75" fill="none" stroke="#c0c0c0" stroke-width="2" opacity="0.2" />
+</svg>

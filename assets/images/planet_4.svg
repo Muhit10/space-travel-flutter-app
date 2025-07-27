@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="200" height="200" viewBox="0 0 200 200">
+  <!-- Planet 4 - Mars-like red planet -->
+  <circle cx="100" cy="100" r="80" fill="#c1440e" />
+  <!-- Surface features - darker regions -->
+  <path d="M40,80 Q70,60 100,70 T150,90 Q130,120 90,110 T40,80" fill="#a13008" />
+  <path d="M70,130 Q90,120 110,130 T140,150 Q120,160 90,150 T70,130" fill="#a13008" />
+  <!-- Olympus Mons - largest volcano -->
+  <circle cx="60" cy="70" r="15" fill="#8b2703" />
+  <!-- Valles Marineris - canyon system -->
+  <path d="M80,100 Q120,90 160,110" fill="none" stroke="#8b2703" stroke-width="8" />
+  <!-- Polar ice caps -->
+  <circle cx="100" cy="25" r="15" fill="#ffffff" opacity="0.8" />
+  <circle cx="100" cy="175" r="10" fill="#ffffff" opacity="0.8" />
+  <!-- Atmosphere glow -->
+  <circle cx="100" cy="100" r="90" fill="none" stroke="#e8a990" stroke-width="5" opacity="0.3" />
+</svg>
